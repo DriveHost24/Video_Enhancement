@@ -1,0 +1,38 @@
+@echo off
+SETLOCAL ENABLEDELAYEDEXPANSION
+
+REM ============================================================
+REM   DRIVEHOST24 FFV1 MASTER (4:4:4 10-BIT LOSSLESS)
+REM ============================================================
+
+set "SRC=input.mov"
+set "OUT_FOLDER=ETS2_FFV1_444_10BIT_MASTER"
+if not exist "%OUT_FOLDER%" mkdir "%OUT_FOLDER%"
+
+set "OUT_W=2160"
+set "OUT_H=3840"
+set "FPS=60"
+set "PIX_FMT=yuv444p10le"
+
+set "CLIP_NAME=DriveHost24_FFV1_MASTER"
+
+if not exist "tmp_segments" mkdir "tmp_segments"
+
+echo Splitting input...
+ffmpeg -y -i "%SRC%" -map 0 -c copy -f segment -segment_time 30 tmp_segments\clip_%%03d.mov
+
+for %%F in (tmp_segments\clip_*.mov) do (
+    set "BASE=%%~nF"
+
+    ffmpeg -y -i "%%F" ^
+      -vf "scale=%OUT_W%:%OUT_H%:flags=bicubic,fps=%FPS%" ^
+      -c:v ffv1 ^
+        -level 3 ^
+        -g 1 ^
+        -pix_fmt %PIX_FMT% ^
+      -c:a copy ^
+      "%OUT_FOLDER%\!BASE!_%CLIP_NAME%_4K60_444_10bit.mkv"
+)
+
+echo DONE – FFV1 MASTER CREATED
+pause
