@@ -7,7 +7,7 @@ REM ============================================================
 
 REM ---------------- CONFIG ----------------
 set "SRC=input.mov"
-set "OUT_FOLDER=ETS2_4K_VERTICAL_444_10bit_NVENC_500M"
+set "OUT_FOLDER=ETS2_4K_VERTICAL_444_10bit_NVENC_250M"
 if not exist "%OUT_FOLDER%" mkdir "%OUT_FOLDER%"
 
 set "OUT_W=2160"
@@ -16,10 +16,10 @@ set "FPS=60"
 set "PIX_FMT=yuv444p10le"
 set "PROFILE=rext"
 set "PRESET=p7"
-set "TARGET_BITRATE=500M"
+set "TARGET_BITRATE=250M"
 
 REM ---------------- VIDEO NAME ----------------
-set "CLIP_NAME=Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2026 DriveHost24"
+set "CLIP_NAME=Euro Truck Simulator 2 Volvo FH4 Globetrotter XL 700 hp 515kW 14 speeds 2026-02-08 14-57-34 DriveHost24 Team 2026 DriveHost24"
 
 REM ---------------- METADATA ----------------
 set "META_TITLE=%CLIP_NAME%"
