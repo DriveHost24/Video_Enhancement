@@ -1,0 +1,18 @@
+File,Format,Size_MB,Duration_sec,Bitrate_Mbps,Codec,Profile,Pixel_Format,Resolution,FPS,Folder
+input.mov,.MOV,1522.26,106.27,120.17,hevc,Main 10,yuv420p10le,2160x3840,60.0,try
+1000M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov,.MOV,1633.73,33.35,410.94,hevc,Rext,yuv444p10le,2160x3840,60.0,Test Upload
+100M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov,.MOV,408.7,33.35,102.8,hevc,Rext,yuv444p10le,2160x3840,60.0,Test Upload
+150M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov,.MOV,598.6,33.35,150.57,hevc,Rext,yuv444p10le,2160x3840,60.0,Test Upload
+250M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov,.MOV,970.45,33.35,244.1,hevc,Rext,yuv444p10le,2160x3840,60.0,Test Upload
+500M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov,.MOV,1603.97,33.35,403.46,hevc,Rext,yuv444p10le,2160x3840,60.0,Test Upload
+80M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov,.MOV,329.57,33.35,82.9,hevc,Rext,yuv444p10le,2160x3840,60.0,Test Upload
+clip_000.mov,.MOV,478.17,33.35,120.26,hevc,Main 10,yuv420p10le,2160x3840,60.0,tmp_segments
+clip_001.mov,.MOV,417.59,29.17,120.1,hevc,Main 10,yuv420p10le,2160x3840,60.0,tmp_segments
+clip_002.mov,.MOV,418.76,29.17,120.44,hevc,Main 10,yuv420p10le,2160x3840,60.0,tmp_segments
+clip_003.mov,.MOV,207.8,14.6,119.39,hevc,Main 10,yuv420p10le,2160x3840,60.0,tmp_segments
+1000M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26.mp4,.MP4,54.43,33.38,13.68,vp9,Profile 0,yuv420p,2160x3840,60.0,YoutubeUpload
+100M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26.mp4,.MP4,53.95,33.38,13.56,vp9,Profile 0,yuv420p,2160x3840,60.0,YoutubeUpload
+150M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26.mp4,.MP4,54.13,33.38,13.6,vp9,Profile 0,yuv420p,2160x3840,60.0,YoutubeUpload
+250M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26.mp4,.MP4,54.36,33.38,13.66,vp9,Profile 0,yuv420p,2160x3840,60.0,YoutubeUpload
+500M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26.mp4,.MP4,54.5,33.38,13.7,vp9,Profile 0,yuv420p,2160x3840,60.0,YoutubeUpload
+80M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26 1.mp4,.MP4,53.24,33.38,13.38,vp9,Profile 0,yuv420p,2160x3840,60.0,YoutubeUpload

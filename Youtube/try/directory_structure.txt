@@ -1,0 +1,30 @@
+try/
+│
+├── ETS2_4K_VERTICAL_444_10bit_NVENC_1G/
+│   
+├── Test Upload/
+│   
+│   ├── 1000M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov
+│   ├── 100M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov
+│   ├── 150M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov
+│   ├── 250M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov
+│   ├── 500M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov
+│   └── 80M clip_000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp (375kW) 12 speeds 2026-01-26 14-48-51 DriveHost24 Team 2025 DriveHost24_4K60_vertical_444_10bit_1G.mov
+├── YoutubeUpload/
+│   
+│   ├── 1000M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26.mp4
+│   ├── 100M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26.mp4
+│   ├── 150M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26.mp4
+│   ├── 250M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26.mp4
+│   ├── 500M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26.mp4
+│   └── 80M clip 000Euro Truck Simulator 2 Mercedes New Actros GigaSpace 510 hp 375kW 12 speeds 2026 01 26 1.mp4
+├── tmp_segments/
+│   
+│   ├── clip_000.mov
+│   ├── clip_001.mov
+│   ├── clip_002.mov
+│   └── clip_003.mov
+├── clip.bat
+├── download_yt_video.py
+├── input.mov
+└── tree.py
